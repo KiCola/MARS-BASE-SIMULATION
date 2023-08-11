@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "mcmap.C": "cpp",
+        "main.C": "cpp",
+        "login.C": "cpp",
+        "topmap.C": "cpp",
+        "MOUSE.C": "cpp",
+        "admin.C": "cpp",
+        "draw.C": "cpp"
+    }
+}
